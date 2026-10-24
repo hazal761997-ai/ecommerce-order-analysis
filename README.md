@@ -8,7 +8,7 @@ Built for the **GOIT Data Analytics Hackathon (E-commerce Track)**.
 
 ![Dashboard](tableau/dashboard.png)
 
-**Live dashboard:** [Tableau Public link](ADD_YOUR_LINK_HERE)
+
 
 ---
 
