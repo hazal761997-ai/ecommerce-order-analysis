@@ -83,4 +83,4 @@ Outputs (charts and CSVs) are saved to `python/outputs/`. `analysis_table.csv` i
 
 ## Author
 
-**[HAZAL YOLU]** 
+HAZAL YOLU
