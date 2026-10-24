@@ -55,13 +55,11 @@ Revenue is calculated at item level: `item_revenue = price × quantity`.
 
 ## Key Findings
 
-- **Seasonality:** monthly revenue grows steadily from about 1.1K in January to a peak of about 3.4K in May, then drops to about 1.8K in June. [Confirm whether June is a complete month.]
-- **Categories:** Clothing (about 6.9K) and Electronics (about 4.4K) generate the most revenue, well ahead of Automotive and Books. [Add the remaining categories.]
-- **Geography:** the USA is the largest market, followed by Canada and several European countries. [Add exact figures.]
-- **Top products:** [Name the top 3 products and compare revenue with units sold.]
-- **AOV by user type:** [User type] has the highest AOV ([X]), while [user type] generates the highest total revenue ([X]) because of order volume.
-- **RFM:** [N] customers ([X%]) are *Champions* and produce [X%] of revenue. [N] customers are *At Risk*, with an average recency of [X] days.
-- **Spend vs. loyalty:** the top 10% by spend and the top 10% by frequency overlap by only [X%], so the highest spender is not always the most loyal customer.
+- **Scope:** the analysis covers 639 orders and about 52.0K in revenue from January to early June 2024.
+- **Seasonality:** monthly revenue rises from January and peaks in May. June is a partial month, so its lower figure is not a real decline.
+- **Categories:** Clothing and Electronics generate the most revenue, well ahead of Automotive and Books.
+- **AOV by user type:** Loyal customers have the highest AOV (87.63) and generate 54% of revenue (28.1K) from 50% of orders. Returning customers place 245 orders at the lowest AOV (73.95) and contribute 35% of revenue. New customers place 73 orders with an AOV of 78.70 (11% of revenue).
+- **Customer value:** the top customers by lifetime value spend roughly 350 to 710 each, mostly in only 1 to 3 orders. The top spender made just 2 orders, and the most frequent buyer among the top 11 (5 orders) ranks only fifth by spend, so the biggest spenders are not always the most loyal.
 
 ## Recommendations
 
